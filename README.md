@@ -12,7 +12,15 @@
   My <span>IELTS™</span>
 </h1>
 
-<h2>在线地址 <a href="https://hefengxian.github.io/my-ielts/#/">https://hefengxian.github.io/my-ielts/</a></h2>
+## 项目来源与新增功能
+
+网页原有内容、词库和学习资料来自 hefengxian 的 My IELTS。[原项目仓库](https://github.com/hefengxian/my-ielts)
+
+本仓库在原项目的词汇页面增加了「生词簿」。你可以新建单词簿、收藏生词，并按原有章节筛选复习。
+
+按下方开发说明安装依赖并运行 `pnpm run dev` 后，即可进入词汇页使用生词簿。[打开本地词汇页](http://localhost:3333/#/vocabulary)
+
+<h2>原作者的在线版 <a href="https://hefengxian.github.io/my-ielts/#/">https://hefengxian.github.io/my-ielts/</a></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="public/screenshot/screenshot-home-dark.png">
